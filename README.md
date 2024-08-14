@@ -1,6 +1,6 @@
-# KALE-LMs
+# KALE-LM
 
-Knowledge And Logic Enhanced Large Model Series
+Knowledge And Logic Enhanced Large Model
 
 ## We are exploring the power of AI for science
 
